@@ -1,5 +1,9 @@
 Cyprus Property Intelligence
 
+"📊 Open the Live Interactive Dashboard" (https://pogkaku.github.io/cyprus-property-intelligence/dashboard/)
+
+Explore residential property listings across Cyprus through an interactive dashboard featuring property prices, price per square metre, covered area, bedrooms, and geographical comparisons.
+
 Project Overview
 
 Cyprus Property Intelligence is a data analytics project that collects, cleans, processes, analyzes, and visualizes residential property listing data from Cyprus.
